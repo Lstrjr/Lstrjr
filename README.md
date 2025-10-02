@@ -7,4 +7,6 @@ Atualmente mais focado em:
   <img width='50 height='50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 </div>
 
+Encontre-me em: 
+
 
