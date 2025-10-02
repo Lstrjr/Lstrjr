@@ -9,6 +9,6 @@
 
 Encontre-me em: 
 
-<a href=" "><img src+"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />" ></a>
+<a href=" "><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"></a>
 
 
